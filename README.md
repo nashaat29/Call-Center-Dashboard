@@ -54,5 +54,6 @@ To complete this project, I followed these steps:
 ## Conclusion
 
 The Call Center Dashboard project in Excel was an excellent learning experience. I gained valuable skills in data formatting, cleaning, and analysis using pivot tables. Additionally, I learned how to create maps and build interactive dashboards to present insights effectively.
+![Dashboard Image](https://github.com/nashaat29/Call-Center-Dashboard/assets/138555343/7e57124c-9de5-414c-a439-bfd733556abe)
 
 This project has not only improved my Excel proficiency but also enhanced my data visualization and dashboard design abilities. I look forward to applying these skills in future projects and exploring more advanced Excel techniques.
